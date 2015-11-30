@@ -1,0 +1,17 @@
+{
+  "name": "react-flowtype",
+  "version": "1.0.0",
+  "description": "React implementation of flowtype.js: font-size based on element width. Allows you to keep the ideal amount of characters per line, while scaling font size.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "react-component"
+  ],
+  "author": "Thariq Shihipar",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.3"
+  }
+}
