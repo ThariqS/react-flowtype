@@ -21,7 +21,7 @@ class FlowType extends React.Component {
 		};
 	}
 	updateWidthFont(){
-		this.elemWidth = this.refs.textBody.getDOMNode().offsetWidth;
+		this.elemWidth = this.refs.textBody.offsetWidth;
 		this.updateFontSize();
 	}
 	updateFontSize() {
